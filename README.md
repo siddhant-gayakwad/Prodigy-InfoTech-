@@ -15,7 +15,7 @@ OFFER LETTER:-
 
 TASK 1: RESPONSIVE LANDING PAGE:-
 
-WEBSITE: [Link] (https://sid-task-1.netlify.app/)
+WEBSITE: [Link](https://sid-task-1.netlify.app/)
 
 ![01](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/09cab23a-1283-452f-b8e5-bbfdf3617eef)
 
