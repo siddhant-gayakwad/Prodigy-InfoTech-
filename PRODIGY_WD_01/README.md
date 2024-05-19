@@ -1,6 +1,6 @@
 
 
-# Landing Page Project
+# Landing Page For Prodigy InfoTech!
 
 This landing page project is designed as a practice work in front end. It features a responsive design, attractive layout
 
