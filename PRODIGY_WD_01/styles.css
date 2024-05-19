@@ -1,0 +1,145 @@
+/* styles.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: #0a1333;
+    color: white;
+    z-index: 1000;
+    transition: background-color 0.3s;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: #ffffff;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    position: relative;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.dropdown-link{
+    padding: 10px 15px;
+    display: flex;  
+    text-decoration: none;
+    color: white;
+    transition: background-color 0.3s, color 0.3s;
+
+}
+
+
+.nav-link:hover, .dropdown-link:hover {
+    background-color: #555;
+    color: #fff;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #333;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu li {
+    width: 200px;
+}
+
+.hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.hamburger .bar {
+    height: 3px;
+    width: 25px;
+    background-color: white;
+    margin: 4px 0;
+    transition: all 0.3s;
+}
+
+header, section {
+    padding: 100px 20px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+header {
+    background: #e2e2e2;
+    padding: 150px 200px;
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+section {
+    background: #e2e2e2;
+    margin-bottom: 20px;
+}
+
+.scrolled {
+    background-color: #0a1333;
+}
+
+.active-link {
+    background-color: #555;
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        background-color: #333;
+    }
+
+    .nav-links li {
+        text-align: center;
+    }
+
+    .nav-links.active {
+        display: flex;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+}
