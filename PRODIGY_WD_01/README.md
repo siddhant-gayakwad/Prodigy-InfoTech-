@@ -4,6 +4,11 @@
 
 This landing page project is designed as a practice work in front end. It features a responsive design, attractive layout
 
+TASK 1: RESPONSIVE LANDING PAGE:-
+
+WEBSITE: [https://sid-task-1.netlify.app/](https://sid-task-1.netlify.app/)
+
+![01](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/09cab23a-1283-452f-b8e5-bbfdf3617eef)
 
 ## Features
 
