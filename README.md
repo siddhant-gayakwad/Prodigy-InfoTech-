@@ -21,9 +21,9 @@ WEBSITE: [https://sid-task-1.netlify.app/](https://sid-task-1.netlify.app/)
 
 TASK 2: STOPWATCH WEB APPLICATION:-
 
-WEBSITE: [https://prodigytimer.netlify.app/](https://prodigytimer.netlify.app/)
+WEBSITE: [https://sid-task-2.netlify.app/](https://sid-task-2.netlify.app/)
 
-![01]()
+![01](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/067f7c55-c52f-432a-8638-3fb6535aeb67)
 
 TASK 3: TIC-TAC-TOC WEB APPLICATION:-
 
