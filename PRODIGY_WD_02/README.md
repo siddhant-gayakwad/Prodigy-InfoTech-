@@ -1,6 +1,11 @@
 # Stopwatch Landing Page
 
 This landing page project showcases a simple stopwatch application built using HTML, CSS, and JavaScript. It provides basic functionality to start, stop, reset the timer, and record laps.
+TASK 2: STOPWATCH WEB APPLICATION:-
+
+WEBSITE: [https://sid-task-2.netlify.app/](https://sid-task-2.netlify.app/)
+
+![01](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/067f7c55-c52f-432a-8638-3fb6535aeb67)
 
 ## Features
 
@@ -19,6 +24,6 @@ This landing page project showcases a simple stopwatch application built using H
 
 ## Credits
 
-This stopwatch landing page was created by Niharika as a simple project to demonstrate HTML, CSS, and JavaScript skills .
+This stopwatch landing page was created by Siddhant Gayakwad as a simple project to demonstrate HTML, CSS, and JavaScript skills .
 
 
