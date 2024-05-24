@@ -27,9 +27,9 @@ WEBSITE: [https://sid-task-2.netlify.app/](https://sid-task-2.netlify.app/)
 
 TASK 3: TIC-TAC-TOC WEB APPLICATION:-
 
-WEBSITE: [https://ticktacktok.netlify.app/](https://ticktacktok.netlify.app/)
+WEBSITE: [https://sid-task-3.netlify.app/](https://sid-task-3.netlify.app/)
 
-![02]()
+![01](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/a4fa3e0a-ed0a-45ef-b1a7-73c17fe4d344)
 
 TASK 5: WEATHER APPLICATION:-
 
