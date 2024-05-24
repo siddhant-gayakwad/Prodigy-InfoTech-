@@ -40,4 +40,4 @@ The AI opponent follows a basic strategy to determine its moves:
 
 ## Credits
 
-This Tic Tac Toe game was developed by Niharika as part of an internship task to enhance skills in JavaScript, HTML, and CSS.
+This Tic Tac Toe game was developed by Siddhant as part of an internship task to enhance skills in JavaScript, HTML, and CSS.
