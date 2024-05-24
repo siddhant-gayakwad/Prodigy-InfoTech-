@@ -2,6 +2,9 @@
 
 This is a Tic Tac Toe game project developed as part of an internship task. It allows players to play against an AI opponent, providing an opportunity to practice and demonstrate skills in JavaScript, HTML, and CSS.
 
+WEBSITE: [https://sid-task-2.netlify.app/](https://sid-task-2.netlify.app/)
+
+![01](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/a4fa3e0a-ed0a-45ef-b1a7-73c17fe4d344)
 ## Features
 
 - **Human vs. AI**: Play against an AI opponent that utilizes a basic strategy to make its moves.
