@@ -33,6 +33,6 @@ WEBSITE: [https://sid-task-3.netlify.app/](https://sid-task-3.netlify.app/)
 
 TASK 5: WEATHER APPLICATION:-
 
-WEBSITE: [https://weatherpocket.netlify.app/](https://weatherpocket.netlify.app/)
+WEBSITE: [https://sid-task-5.netlify.app/](https://sid-task-5.netlify.app/)
 
-![02]()
+![01](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/9fb5e6eb-b11a-4038-9671-762bb4d897bc)
