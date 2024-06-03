@@ -25,4 +25,4 @@ WEBSITE: [https://sid-task-1.netlify.app/](https://sid-task-1.netlify.app/)
 
 ## Credits
 
-This landing page project was created by Gayakwad Siddhant as a part of internship tasks.
+This landing page project was created by [Siddhant Gayakwad](https://www.linkedin.com/in/siddhant-gayakwad-524524191/) as a part of internship tasks.
