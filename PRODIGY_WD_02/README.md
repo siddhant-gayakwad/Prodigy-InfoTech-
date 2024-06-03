@@ -24,6 +24,6 @@ WEBSITE: [https://sid-task-2.netlify.app/](https://sid-task-2.netlify.app/)
 
 ## Credits
 
-This stopwatch landing page was created by Siddhant Gayakwad as a simple project to demonstrate HTML, CSS, and JavaScript skills .
+This stopwatch landing page was created by [Siddhant Gayakwad](https://www.linkedin.com/in/siddhant-gayakwad-524524191/) as a simple project to demonstrate HTML, CSS, and JavaScript skills .
 
 
