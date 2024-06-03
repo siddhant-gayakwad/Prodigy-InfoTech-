@@ -42,3 +42,8 @@ TASK 5: WEATHER APPLICATION:-
 WEBSITE: [https://sid-task-5.netlify.app/](https://sid-task-5.netlify.app/)
 
 ![01](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/9fb5e6eb-b11a-4038-9671-762bb4d897bc)
+
+### Author:
+[Siddhant Gayakwad](https://www.linkedin.com/in/siddhant-gayakwad-524524191/)
+
+Feel free to contribute to this projects by forking the repository and submitting a pull request. If you encounter any issues or have suggestions for improvements, please open an issue on GitHub.
