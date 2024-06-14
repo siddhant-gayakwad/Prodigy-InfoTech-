@@ -11,7 +11,7 @@ This repository contains the source code for my personal portfolio website, show
 6. [Contributing](#contributing)
 7. [License](#license)
 
-WEBSITE: [https://sidd-portfolis.netlify.app/](https://sidd-portfolis.netlify.app/) 
+WEBSITE: [https://sidz-portfolio.netlify.app/]https://sidz-portfolio.netlify.app/) 
 
 ![01](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/774e56e2-6514-4e7c-bcf5-3239891054b6)
 
