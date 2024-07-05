@@ -9,7 +9,9 @@ LANGUAGES : HTML,CSS,JAVASCRIPT
 
 OFFER LETTER:-
 
-![OFFER LETTER](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/06b4161d-c02b-4e2b-a3bc-4dbced38a7fc)
+![CERTIFICATE](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/51570693-6b17-4642-82f5-7e7cbf61380c)
+
+![LETTER OF RECOMMENDATION ](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/0f2d20bc-e115-47eb-86db-83f1de79d13f)
 
 5 TASKS :-
 
